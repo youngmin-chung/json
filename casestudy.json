@@ -1,7 +1,7 @@
 [
     {
         "PRODUCT": "XPS 13",
-        "CPU": "8th Generation Intel® Core™ i5-8265U Processor",
+        "CPU": "Intel® Core™ i5-8265U Processor",
 	"GRAPHIC": "Intel® UHD Graphics 620 with shared graphics memory",
         "RAM": "8GB",
         "SSD": "256GB",
@@ -14,7 +14,7 @@
     },
 	{
         "PRODUCT": "XPS 15 2 in 1",
-        "CPU": "8th Generation Intel® Core™ i7-8705G Processor",
+        "CPU": "Intel® Core™ i7-8705G Processor",
 	"GRAPHIC": "Radeon™ RX Vega M GL Graphics with 4GB HMB2 Graphics Memory",
         "RAM": "16GB",
         "SSD": "256GB",
@@ -27,7 +27,7 @@
     },
 	{
         "PRODUCT": "Inspiron 17 7000 2-in-1",
-        "CPU": "8th Generation Intel® Core™ i7-8565U Processor",
+        "CPU": "Intel® Core™ i7-8565U Processor",
 	"GRAPHIC": "NVIDIA GeForce MX150 2GB GDDR5",
         "RAM": "16GB",
         "SSD": "512GB",
@@ -40,7 +40,7 @@
     },
 	{
         "PRODUCT": "Dell G7 17 Gaming Laptop",
-        "CPU": "9th Generation Intel® Core™ i7-9750H",
+        "CPU": "Intel® Core™ i7-9750H",
 	"GRAPHIC": "NVIDIA® GeForce RTX™ 2070 8GB GDDR6 with Max-Q Design",
         "RAM": "16GB",
         "SSD": "512GB",
@@ -53,7 +53,7 @@
     },
 	{
         "PRODUCT": "ALIENWARE AREA-51M",
-        "CPU": "9th Generation Intel® Core™ i9-9900K",
+        "CPU": "Intel® Core™ i9-9900K",
 	"GRAPHIC": "NVIDIA® GeForce RTX™ 2080 8GB GDDR6 (OC Ready)",
         "RAM": "32GB",
         "SSD": "1TB",
@@ -66,7 +66,7 @@
     },
 	{
         "PRODUCT": "ZenBook Flip UX461FN-US74T 2-in-1",
-        "CPU": "8th Generation Intel Core i7-8565U 1.8GHz with TurboBoost technology up to 4.6GHz",
+        "CPU": "Intel Core i7-8565U 1.8GHz with TurboBoost technology up to 4.6GHz",
 	"GRAPHIC": "NVIDIA GeForce MX150 GDDR5",
         "RAM": "16GB",
         "SSD": "512GB",
@@ -79,7 +79,7 @@
     },
 	{
         "PRODUCT": "ASUS TUF FX705GM-NH74 Gaming Laptop",
-        "CPU": "8th Generation Intel Core i7-8750H 2.2 GHz up to 3.9 GHz",
+        "CPU": "Intel Core i7-8750H 2.2 GHz up to 3.9 GHz",
 	"GRAPHIC": "NVIDIA GTX 1060 6GB GDDR5",
         "RAM": "16GB",
         "SSD": "256GB + 1TB 5400 RPM HDD",
@@ -92,7 +92,7 @@
     },
 	{
         "PRODUCT": "ASUS ROG STRIX Hero II GL504GM-IH73 Gaming Laptop",
-        "CPU": "8th Generation Intel Core i7-8750H 2.2 GHz up to 3.9 GHz",
+        "CPU": "Intel Core i7-8750H 2.2 GHz up to 3.9 GHz",
 	"GRAPHIC": "NVIDIA GTX 1060 6GB GDDR5",
         "RAM": "16GB",
         "SSD": "128GB NVMe PCIe SSD + 1TB 5400 RPM HDD",
@@ -105,7 +105,7 @@
     },
 	{
         "PRODUCT": "ASUS ROG Strix SCAR II GL704GM-DH74 Gaming Laptop",
-        "CPU": "8th Generation Intel Core i7-8750H 2.2 GHz up to 3.9 GHz",
+        "CPU": "Intel Core i7-8750H 2.2 GHz up to 3.9 GHz",
 	"GRAPHIC": "NVIDIA GTX 1060 6GB GDDR5",
         "RAM": "16GB",
         "SSD": "128GB NVMe PCIe SSD + 1TB 5400 RPM HDD",
@@ -118,7 +118,7 @@
     },
 	{
         "PRODUCT": "Asus ZenBook Pro 15 UX580GE-XB74T Laptop",
-        "CPU": "9th Generation Intel Core i9-8950HK 2.90 GHz with Turbo Boost Speed up to 4.80 GHz",
+        "CPU": "Intel Core i9-8950HK 2.90 GHz with Turbo Boost Speed up to 4.80 GHz",
 	"GRAPHIC": "NVIDIA GeForce GTX 1050 Ti with 4GB GDDR5 shared graphics memory",
         "RAM": "16GB",
         "SSD": "512GB",
@@ -131,7 +131,7 @@
     },
 	{
         "PRODUCT": "HP OMEN 17-an188nr Gaming Laptop",
-        "CPU": "8th Generation Intel Core i7-8750H 2.2 GHz up to 4.1 GHz with Turbo Boost",
+        "CPU": "Intel Core i7-8750H 2.2 GHz up to 4.1 GHz with Turbo Boost",
 	"GRAPHIC": "NVIDIA GeForce GTX 1070 8GB GDDR5",
         "RAM": "32GB",
         "SSD": "256GB PCIe NVMe SSD + 2TB 5400 RPM SATA HDD",
@@ -157,7 +157,7 @@
     },
 	{
         "PRODUCT": "HP Spectre Folio Convertible 13-ak0061ms Laptop",
-        "CPU": "8th Generation Intel Core i7-8500Y 1.5 GHz up to 4.2 GHz",
+        "CPU": "Intel Core i7-8500Y 1.5 GHz up to 4.2 GHz",
 	"GRAPHIC": "Intel UHD Graphics 615",
         "RAM": "8GB",
         "SSD": "256GB",
@@ -170,7 +170,7 @@
     },
 	{
         "PRODUCT": "HP Pavilion 15-cs2013ms Laptop",
-        "CPU": "8th Generation Intel Core i5-8265U 1.60 GHz with Turbo Boost Technology up to 3.90 GHz",
+        "CPU": "Intel Core i5-8265U 1.60 GHz with Turbo Boost Technology up to 3.90 GHz",
 	"GRAPHIC": "Intel UHD Graphics 620",
         "RAM": "8GB",
         "SSD": "128GB",
