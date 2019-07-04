@@ -1,7 +1,7 @@
 [
     {
         "PRODUCT": "XPS 13",
-        "CPU": "8th Generation Intel Core i5-8265U Processor",
+        "CPU": "Intel Core i5-8265U Processor",
 	"GRAPHIC": "Intel UHD Graphics 620 with shared graphics memory",
         "RAM": "8GB",
         "SSD": "256GB",
