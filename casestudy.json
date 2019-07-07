@@ -1,7 +1,7 @@
 [
     {
         "PNAME": "XPS 13 2 in 1",
-	"GNAME": "XPS 13",
+	"GNAME": "XPS 13.png",
         "CPU": "Intel Core i5-8265U Processor",
 	"GRAPHIC": "Intel UHD Graphics 620 with shared graphics memory",
         "RAM": "8GB",
@@ -15,7 +15,7 @@
     },
 	{
         "PNAME": "XPS 15 2 in 1",
-	"GNAME": "XPS 15",
+	"GNAME": "XPS 15.png",
         "CPU": "Intel Core i7-8705G Processor",
 	"GRAPHIC": "Radeon RX Vega M GL Graphics with 4GB HMB2 Graphics Memory",
         "RAM": "16GB",
@@ -29,7 +29,7 @@
     },
 	{
         "PNAME": "Inspiron 17 7000 2-in-1",
-	"GNAME": "Inspiron 17",
+	"GNAME": "Inspiron 17.png",
         "CPU": "Intel Core i7-8565U Processor",
 	"GRAPHIC": "NVIDIA GeForce MX150 2GB GDDR5",
         "RAM": "16GB",
@@ -43,7 +43,7 @@
     },
 	{
         "PNAME": "Dell G7 17 Gaming Laptop",
-	"GNAME": "G7 17",
+	"GNAME": "G7 17.png",
         "CPU": "Intel Core i7-9750H",
 	"GRAPHIC": "NVIDIA GeForce RTX 2070 8GB GDDR6 with Max-Q Design",
         "RAM": "16GB",
@@ -57,7 +57,7 @@
     },
 	{
         "PNAME": "ALIENWARE AREA-51M",
-	"GNAME": "ALIENWARE",
+	"GNAME": "ALIENWARE.png",
         "CPU": "Intel Core i9-9900K",
 	"GRAPHIC": "NVIDIA GeForce RTX 2080 8GB GDDR6 (OC Ready)",
         "RAM": "32GB",
@@ -71,7 +71,7 @@
     },
 	{
         "PNAME": "ZenBook Flip UX461FN-US74T 2-in-1",
-	"GNAME": "Flip",
+	"GNAME": "Flip.png",
         "CPU": "Intel Core i7-8565U 1.8GHz with TurboBoost technology up to 4.6GHz",
 	"GRAPHIC": "NVIDIA GeForce MX150 GDDR5",
         "RAM": "16GB",
@@ -85,7 +85,7 @@
     },
 	{
         "PNAME": "ASUS TUF FX705GM-NH74 Gaming Laptop",
-	"GNAME": "TUF",
+	"GNAME": "TUF.png",
         "CPU": "Intel Core i7-8750H 2.2 GHz up to 3.9 GHz",
 	"GRAPHIC": "NVIDIA GTX 1060 6GB GDDR5",
         "RAM": "16GB",
@@ -99,7 +99,7 @@
     },
 	{
         "PNAME": "ASUS ROG STRIX Hero II GL504GM-IH73 Gaming Laptop",
-	"GNAME": "ROG STRIX Hero",
+	"GNAME": "ROG STRIX Hero.png",
         "CPU": "Intel Core i7-8750H 2.2 GHz up to 3.9 GHz",
 	"GRAPHIC": "NVIDIA GTX 1060 6GB GDDR5",
         "RAM": "16GB",
@@ -113,7 +113,7 @@
     },
 	{
         "PNAME": "ASUS ROG Strix SCAR II GL704GM-DH74 Gaming Laptop",
-	"GNAME": "ROG Strix SCAR",
+	"GNAME": "ROG Strix SCAR.png",
         "CPU": "Intel Core i7-8750H 2.2 GHz up to 3.9 GHz",
 	"GRAPHIC": "NVIDIA GTX 1060 6GB GDDR5",
         "RAM": "16GB",
@@ -127,7 +127,7 @@
     },
 	{
         "PNAME": "Asus ZenBook Pro 15 UX580GE-XB74T Laptop",
-	"GNAME": "ZenBook Pro",
+	"GNAME": "ZenBook Pro.png",
         "CPU": "Intel Core i9-8950HK 2.90 GHz with Turbo Boost Speed up to 4.80 GHz",
 	"GRAPHIC": "NVIDIA GeForce GTX 1050 Ti with 4GB GDDR5 shared graphics memory",
         "RAM": "16GB",
@@ -141,7 +141,7 @@
     },
 	{
         "PNAME": "HP OMEN 17-an188nr Gaming Laptop",
-	"GNAME": "OMEN 17",
+	"GNAME": "OMEN 17.png",
         "CPU": "Intel Core i7-8750H 2.2 GHz up to 4.1 GHz with Turbo Boost",
 	"GRAPHIC": "NVIDIA GeForce GTX 1070 8GB GDDR5",
         "RAM": "32GB",
@@ -155,7 +155,7 @@
     },
 	{
         "PNAME": "HP ENVY x360 Convertible 15-bp198ms 2 in 1 PC",
-	"GNAME": "ENVY x360",
+	"GNAME": "ENVY x360.png",
         "CPU": "Qualcomm Snapdragon 835 1.60 GHz",
 	"GRAPHIC": "Qualcomm Adreno 540 GPU",
         "RAM": "4GB",
@@ -169,7 +169,7 @@
     },
 	{
         "PNAME": "HP Spectre Folio Convertible 13-ak0061ms Laptop",
-	"GNAME": "Spectre",
+	"GNAME": "Spectre.png",
         "CPU": "Intel Core i7-8500Y 1.5 GHz up to 4.2 GHz",
 	"GRAPHIC": "Intel UHD Graphics 615",
         "RAM": "8GB",
@@ -183,7 +183,7 @@
     },
 	{
         "PNAME": "HP Pavilion 15-cs2013ms Laptop",
-	"GNAME": "Pavilion",
+	"GNAME": "Pavilion.png",
         "CPU": "Intel Core i5-8265U 1.60 GHz with Turbo Boost Technology up to 3.90 GHz",
 	"GRAPHIC": "Intel UHD Graphics 620",
         "RAM": "8GB",
@@ -197,7 +197,7 @@
     },
 	{
         "PNAME": "HP Stream 14",
-	"GNAME": "Stream 14",
+	"GNAME": "Stream 14.png",
         "CPU": "Intel Celeron N3060 Dual Core 1.60 GHz up to 2.60 GHz",
 	"GRAPHIC": "NONE",
         "RAM": "4GB",
