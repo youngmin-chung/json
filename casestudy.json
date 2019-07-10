@@ -1,6 +1,7 @@
 [
     {
-        "PNAME": "XPS 13 2 in 1",
+        ProductId: "1",
+	"PNAME": "XPS 13 2 in 1",
 	"GNAME": "XPS 13.png",
         "CPU": "Intel Core i5-8265U Processor",
 	"GRAPHIC": "Intel UHD Graphics 620 with shared graphics memory",
@@ -14,7 +15,8 @@
         "BRAND": "DELL"
     },
 	{
-        "PNAME": "XPS 15 2 in 1",
+        ProductId: "2",
+	"PNAME": "XPS 15 2 in 1",
 	"GNAME": "XPS 15.png",
         "CPU": "Intel Core i7-8705G Processor",
 	"GRAPHIC": "Radeon RX Vega M GL Graphics with 4GB HMB2 Graphics Memory",
@@ -28,7 +30,8 @@
         "BRAND": "DELL"
     },
 	{
-        "PNAME": "Inspiron 17 7000 2-in-1",
+        ProductId: "3",
+	"PNAME": "Inspiron 17 7000 2-in-1",
 	"GNAME": "Inspiron 17.png",
         "CPU": "Intel Core i7-8565U Processor",
 	"GRAPHIC": "NVIDIA GeForce MX150 2GB GDDR5",
@@ -42,7 +45,8 @@
         "BRAND": "DELL"
     },
 	{
-        "PNAME": "Dell G7 17 Gaming Laptop",
+        ProductId: "4",
+	"PNAME": "Dell G7 17 Gaming Laptop",
 	"GNAME": "G7 17.png",
         "CPU": "Intel Core i7-9750H",
 	"GRAPHIC": "NVIDIA GeForce RTX 2070 8GB GDDR6 with Max-Q Design",
@@ -56,7 +60,8 @@
         "BRAND": "DELL"
     },
 	{
-        "PNAME": "ALIENWARE AREA-51M",
+        ProductId: "5",
+	"PNAME": "ALIENWARE AREA-51M",
 	"GNAME": "ALIENWARE.png",
         "CPU": "Intel Core i9-9900K",
 	"GRAPHIC": "NVIDIA GeForce RTX 2080 8GB GDDR6 (OC Ready)",
@@ -70,7 +75,8 @@
         "BRAND": "DELL"
     },
 	{
-        "PNAME": "ZenBook Flip UX461FN-US74T 2-in-1",
+        ProductId: "6",
+	"PNAME": "ZenBook Flip UX461FN-US74T 2-in-1",
 	"GNAME": "Flip.png",
         "CPU": "Intel Core i7-8565U 1.8GHz with TurboBoost technology up to 4.6GHz",
 	"GRAPHIC": "NVIDIA GeForce MX150 GDDR5",
@@ -84,7 +90,8 @@
         "BRAND": "ASUS"
     },
 	{
-        "PNAME": "ASUS TUF FX705GM-NH74 Gaming Laptop",
+        ProductId: "7",
+	"PNAME": "ASUS TUF FX705GM-NH74 Gaming Laptop",
 	"GNAME": "TUF.png",
         "CPU": "Intel Core i7-8750H 2.2 GHz up to 3.9 GHz",
 	"GRAPHIC": "NVIDIA GTX 1060 6GB GDDR5",
@@ -98,7 +105,8 @@
         "BRAND": "ASUS"
     },
 	{
-        "PNAME": "ASUS ROG STRIX Hero II GL504GM-IH73 Gaming Laptop",
+        ProductId: "8",
+	"PNAME": "ASUS ROG STRIX Hero II GL504GM-IH73 Gaming Laptop",
 	"GNAME": "ROG STRIX Hero.png",
         "CPU": "Intel Core i7-8750H 2.2 GHz up to 3.9 GHz",
 	"GRAPHIC": "NVIDIA GTX 1060 6GB GDDR5",
@@ -112,7 +120,8 @@
         "BRAND": "ASUS"
     },
 	{
-        "PNAME": "ASUS ROG Strix SCAR II GL704GM-DH74 Gaming Laptop",
+        ProductId: "9",
+	"PNAME": "ASUS ROG Strix SCAR II GL704GM-DH74 Gaming Laptop",
 	"GNAME": "ROG Strix SCAR.png",
         "CPU": "Intel Core i7-8750H 2.2 GHz up to 3.9 GHz",
 	"GRAPHIC": "NVIDIA GTX 1060 6GB GDDR5",
@@ -126,7 +135,8 @@
         "BRAND": "ASUS"
     },
 	{
-        "PNAME": "Asus ZenBook Pro 15 UX580GE-XB74T Laptop",
+        ProductId: "10",
+	"PNAME": "Asus ZenBook Pro 15 UX580GE-XB74T Laptop",
 	"GNAME": "ZenBook Pro.png",
         "CPU": "Intel Core i9-8950HK 2.90 GHz with Turbo Boost Speed up to 4.80 GHz",
 	"GRAPHIC": "NVIDIA GeForce GTX 1050 Ti with 4GB GDDR5 shared graphics memory",
@@ -140,7 +150,8 @@
         "BRAND": "ASUS"
     },
 	{
-        "PNAME": "HP OMEN 17-an188nr Gaming Laptop",
+        ProductId: "11",
+	"PNAME": "HP OMEN 17-an188nr Gaming Laptop",
 	"GNAME": "OMEN 17.png",
         "CPU": "Intel Core i7-8750H 2.2 GHz up to 4.1 GHz with Turbo Boost",
 	"GRAPHIC": "NVIDIA GeForce GTX 1070 8GB GDDR5",
@@ -154,7 +165,8 @@
         "BRAND": "HP"
     },
 	{
-        "PNAME": "HP ENVY x360 Convertible 15-bp198ms 2 in 1 PC",
+        ProductId: "12",
+	"PNAME": "HP ENVY x360 Convertible 15-bp198ms 2 in 1 PC",
 	"GNAME": "ENVY x360.png",
         "CPU": "Qualcomm Snapdragon 835 1.60 GHz",
 	"GRAPHIC": "Qualcomm Adreno 540 GPU",
@@ -168,7 +180,8 @@
         "BRAND": "HP"
     },
 	{
-        "PNAME": "HP Spectre Folio Convertible 13-ak0061ms Laptop",
+        ProductId: "13",
+	"PNAME": "HP Spectre Folio Convertible 13-ak0061ms Laptop",
 	"GNAME": "Spectre.png",
         "CPU": "Intel Core i7-8500Y 1.5 GHz up to 4.2 GHz",
 	"GRAPHIC": "Intel UHD Graphics 615",
@@ -182,7 +195,8 @@
         "BRAND": "HP"
     },
 	{
-        "PNAME": "HP Pavilion 15-cs2013ms Laptop",
+        ProductId: "14",
+	"PNAME": "HP Pavilion 15-cs2013ms Laptop",
 	"GNAME": "Pavilion.png",
         "CPU": "Intel Core i5-8265U 1.60 GHz with Turbo Boost Technology up to 3.90 GHz",
 	"GRAPHIC": "Intel UHD Graphics 620",
@@ -196,7 +210,8 @@
         "BRAND": "HP"
     },
 	{
-        "PNAME": "HP Stream 14",
+        ProductId: "15",
+	"PNAME": "HP Stream 14",
 	"GNAME": "Stream 14.png",
         "CPU": "Intel Celeron N3060 Dual Core 1.60 GHz up to 2.60 GHz",
 	"GRAPHIC": "NONE",
