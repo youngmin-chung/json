@@ -9,7 +9,7 @@
         "SSD": "256GB",
 	"PRICE": "1499.99",
 	"MSRP": "1699.99",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "The most powerful 13-inch in its class, remastered. With an innovative HD webcam located in the top of the InfinityEdge display and next generation Dell Cinema.",
         "BRAND": "DELL"
@@ -24,7 +24,7 @@
         "SSD": "256GB",
 	"PRICE": "2549.99",
 	"MSRP": "2999.99",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "Our most powerful 15-inch 2-in-1. Built with the first-ever quad-core 8th Gen Intel Core processor with Radeon™ Vega M discrete graphics on a single chip.",
         "BRAND": "DELL"
@@ -39,7 +39,7 @@
         "SSD": "512GB",
 	"PRICE": "1499.99",
 	"MSRP": "1799.99",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "17.3-inch 2-in-1 elegantly designed with Dell Cinema and endless features, so you’re ready for anything.",
         "BRAND": "DELL"
@@ -54,7 +54,7 @@
         "SSD": "512GB",
 	"PRICE": "2199.99",
 	"MSRP": "2499.99",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "17-inch gaming laptop with a thin, sleek design, 8th Gen Intel Core processor, powerful NVIDIA graphics and narrow bezel display.",
         "BRAND": "DELL"
@@ -69,7 +69,7 @@
         "SSD": "1TB",
 	"PRICE": "4999.99",
 	"MSRP": "5599.99",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "Revolutionary 17-inch gaming laptop with upgradeable, overclockable desktop 9th Gen Intel Core processors and NVIDIA GeForce RTX graphics, plus a magnesium alloy chassis.",
         "BRAND": "DELL"
@@ -84,7 +84,7 @@
         "SSD": "512GB",
 	"PRICE": "1399.99",
 	"MSRP": "1699.99",
-        "QTYONHAND": "10",
+        "QTYONHAND": "2",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "Flex your creativity! Effortlessly melding raw power with endless flexibility, the ZenBook Flip helps you conquer your day from work to play and beyond. The full 360° hinge and breathtakingly lightweight design let you venture beyond the boundaries of traditional laptops, freeing you to work where and how you want. And with powerful Intel processors and stunning NVIDIA GeForce MX150 graphics, you can do it all, quicker and more efficiently than ever before.",
         "BRAND": "ASUS"
@@ -99,7 +99,7 @@
         "SSD": "256GB + 1TB 5400 RPM HDD",
 	"PRICE": "1999.99",
 	"MSRP": "2099.99",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "Arm yourself for victory! Charge headlong into battle with the ASUS TUF gaming laptop. Engineered for smooth, immersive gameplay, it features a cutting-edge NanoEdge display and crystal-clear NVIDIA GTX graphics, so you see every detail in sharp clarity. Lightning-fast Intel 8th Gen processors pack a powerful punch to demanding games and daily tasks for efficient multitasking. And thanks to military-grade MIL-STD-810G durability testing, it’s built to withstand everything from everyday wear-and-tear to solar radiation exposure and temperature extremes, so you can get your game on whenever and wherever the gauntlet is thrown.",
         "BRAND": "ASUS"
@@ -114,7 +114,7 @@
         "SSD": "128GB NVMe PCIe SSD + 1TB 5400 RPM HDD",
 	"PRICE": "1599.99",
 	"MSRP": "1999.99",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "A heroic contender! Discover a brave new world of gaming potential with the lethally precise, born-to-perform ROG Strix Hero II gaming laptop. Designed with esports in mind, it features the world’s first 144 Hz super-narrow-bezel display and a mind-bogglingly fast 3ms response time, giving you unmatched smoothness and lightning-quick responsiveness in-game. Add in a suite of gamer-centric features, like an advanced HyperCool Pro cooling system, the latest NVIDIA GTX graphics, and bold RGB-backlit keyboard, and you’re fully equipped to hack-and-slash your way through the ranks for as long as it takes to emerge victorious.",
         "BRAND": "ASUS"
@@ -129,7 +129,7 @@
         "SSD": "128GB NVMe PCIe SSD + 1TB 5400 RPM HDD",
 	"PRICE": "1599.99",
 	"MSRP": "2099.99",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "Marked for glory! Unleash full gaming potential with the lethally precise, born-to-perform ROG Strix Scar II gaming laptop. Designed with esports in mind, it features the world’s first 144 Hz super-narrow-bezel display and a mind-bogglingly fast 3ms response time, giving you unmatched smoothness and lightning-quick responsiveness in-game. Add in a suite of gamer-centric features, like an advanced HyperCool Pro cooling system, the latest NVIDIA GTX graphics, and bold RGB-backlit keyboard, and you’re fully equipped to hack-and-slash your way through the ranks for as long as it takes to emerge victorious.",
         "BRAND": "ASUS"
@@ -144,7 +144,7 @@
         "SSD": "512GB",
 	"PRICE": "2999.99",
 	"MSRP": "3199.99",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "Power your creativity! The ASUS ZenBook Pro 15 effortlessly combines great engineering and sophisticated design. It’s packed with powerful components, like an 8th Generation Intel Core i9 processor and blazing NVIDIA GeForce graphics. Forged from polished solid metal, it’s 0.7 inches thin and tips the scales at a lightweight 4.1 pounds. And with a comprehensive set of ports, including Thunderbolt 3, connectivity is easier than ever.",
         "BRAND": "ASUS"
@@ -159,7 +159,7 @@
         "SSD": "256GB PCIe NVMe SSD + 2TB 5400 RPM SATA HDD",
 	"PRICE": "2499.00",
 	"MSRP": "2799.00",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "Devilish fun! The power to dominate is yours with the HP OMEN. An 8th Gen Intel Core i7 processor and VR-ready NVIDIA graphics lead the charge, giving this gaming beast plenty of muscle to take down any foe without breaking a sweat. And with a venomous design highlighted by a red backlit keyboard, this PC is ready for the battlefield anytime, anywhere.",
         "BRAND": "HP"
@@ -174,7 +174,7 @@
         "SSD": "128GB",
 	"PRICE": "1299.00",
 	"MSRP": "1499.00",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "Mobility, maximized! Stay connected wherever you go, even without Wi-Fi. The HP ENVY x2 does it all with epic battery life, built-in LTE, and a sleek 2-in-1 design.1 Power your PNAMEivity with laptop mode, then flip to tablet mode and sketch a masterpiece.",
         "BRAND": "HP"
@@ -189,7 +189,7 @@
         "SSD": "256GB",
 	"PRICE": "1899.00",
 	"MSRP": "2099.00",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "Dare to reinvent! Flex through your day with the HP Spectre Folio laptop, designed to adapt to your on-the-go workstyle. Three unique positions—laptop, forward, and tablet—allow you to move fluently between work, entertainment, and creativity. Power-packed with an Intel 8th Gen processor, it’s ready to take on everythign from spreadsheets to movies without missing a beat. And with a masterfully crafted design complete with genuine leather, it looks just as brilliant as it performs.",
         "BRAND": "HP"
@@ -204,7 +204,7 @@
         "SSD": "128GB",
 	"PRICE": "899.00",
 	"MSRP": "1099.00",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "Sophisticated style, serious performance! From its slim and sleek build to its powerful features, the HP Pavilion 15 impresses on every level. It sports a sharp-looking, sandblasted silver finish and comes with an 8th Gen Intel Core i5 processor for speedy performance. Games and movies come to vivid life on the 15.6-inch HD display, and it all sounds as good as it looks with high-quality B&O PLAY audio.",
         "BRAND": "HP"
@@ -219,7 +219,7 @@
         "SSD": "64GB",
 	"PRICE": "399.00",
 	"MSRP": "599.00",
-        "QTYONHAND": "10",
+        "QTYONHAND": "3",
         "QTYBACKORDER": "10",
         "DESCRIPTION": "Resilient and reliable! Surf, stream, and browse your favorite apps with the nimble HP Stream 14. This power-packed performer stands up to whatever your day throws at it with a durable design, speedy Intel Celeron processor, and 4GB of memory. Plus, a resilient 14-hour battery life* takes you from early meetings to late-night show binges on a single charge.",
         "BRAND": "HP"
