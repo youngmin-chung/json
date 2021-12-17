@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "calories": "740",
     "fat": "41",
@@ -5057,7 +5057,7 @@
     "fibre": "1",
     "item": "Fruit 'n Yogurt Parfait 5.2 oz (149 g)",
     "protein": "4",
-    "category": "alDayBreakfast"
+    "category": "allDayBreakfast"
   },
   {
     "calories": "470",
@@ -5068,7 +5068,7 @@
     "fibre": "1",
     "item": "Sausage McMuffin with Egg 5.7 oz (162 g)",
     "protein": "21",
-    "category": "alDayBreakfast"
+    "category": "allDayBreakfast"
   },
   {
     "calories": "510",
@@ -5079,7 +5079,7 @@
     "fibre": "2",
     "item": "Hotcakes and Sausage 6.7 oz (189 g)",
     "protein": "15",
-    "category": "alDayBreakfast"
+    "category": "allDayBreakfast"
   },
   {
     "calories": "300",
@@ -5090,7 +5090,7 @@
     "fibre": "1",
     "item": "Sausage Burrito 3.9 oz (111 g)",
     "protein": "12",
-    "category": "alDayBreakfast"
+    "category": "allDayBreakfast"
   },
   {
     "calories": "300",
@@ -5101,7 +5101,7 @@
     "fibre": "1",
     "item": "Egg McMuffin® 4.7 oz (134 g)",
     "protein": "17",
-    "category": "alDayBreakfast"
+    "category": "allDayBreakfast"
   },
   {
     "calories": "450",
@@ -5112,7 +5112,7 @@
     "fibre": "2",
     "item": "Bacon, Egg & Cheese Biscuit (Regular Size Biscuit) 5.2 oz (147 g)",
     "protein": "19",
-    "category": "alDayBreakfast"
+    "category": "allDayBreakfast"
   },
   {
     "calories": "440",
@@ -5123,7 +5123,7 @@
     "fibre": "1",
     "item": "Sausage Biscuit (Regular Size Biscuit) 4.1 oz (117 g)",
     "protein": "11",
-    "category": "alDayBreakfast"
+    "category": "allDayBreakfast"
   },
   {
     "calories": "520",
@@ -5134,7 +5134,7 @@
     "fibre": "2",
     "item": "Sausage Biscuit with Egg (Regular Size Biscuit) 5.8 oz (164 g)",
     "protein": "17",
-    "category": "alDayBreakfast"
+    "category": "allDayBreakfast"
   },
   {
     "calories": "320",
@@ -5145,7 +5145,7 @@
     "fibre": "2",
     "item": "Hotcakes 5.1 oz (144 g)",
     "protein": "8",
-    "category": "alDayBreakfast"
+    "category": "allDayBreakfast"
   },
   {
     "calories": "150",
@@ -5156,7 +5156,7 @@
     "fibre": "2",
     "item": "HASH BROWNS 2 oz (56 g)",
     "protein": "1",
-    "category": "alDayBreakfast"
+    "category": "allDayBreakfast"
   },
   {
     "calories": "290",
@@ -5167,7 +5167,7 @@
     "fibre": "5",
     "item": "Fruit & Maple Oatmeal 8.9 oz (251 g)",
     "protein": "5",
-    "category": "alDayBreakfast"
+    "category": "allDayBreakfast"
   },
   {
     "calories": "400",
@@ -5178,6 +5178,6 @@
     "fibre": "1",
     "item": "Sausage McMuffin 4 oz (114 g)",
     "protein": "14",
-    "category": "alDayBreakfast"
+    "category": "allDayBreakfast"
   }
 ]
